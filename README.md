@@ -1,2 +1,2 @@
 # sample-tfs
-sample TFS repo
+sample Java project
